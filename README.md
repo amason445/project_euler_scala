@@ -32,3 +32,11 @@ Scala Implementations of Project Euler
 4. Filter on palindromes
 5. Reduce the list by the max function
 
+# Problem 6 - Solved 4/21/2022
+> Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
+> https://projecteuler.net/problem=6
+
+1. Create stream to generate sequence of natural numbers
+2. Find sum of squares of first 100 natural numbers and the square of sums
+3. Net the sqare of sums and the sum of squares
+
