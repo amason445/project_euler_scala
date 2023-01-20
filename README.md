@@ -1,4 +1,4 @@
-Project Euler Solutions written in Scala
+# Project Euler Solutions written in Scala
 
 ## Description
 Below is a collection of Project Euler problems I've solved using Scala
